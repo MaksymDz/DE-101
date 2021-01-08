@@ -21,4 +21,4 @@ Hello my **dear** friends
 
 ---
 
-$\lambda$
+$\alpha$
