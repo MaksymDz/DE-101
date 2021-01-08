@@ -27,5 +27,3 @@ Hello my **dear** friends
 <p align="center"><img align="center" src="https://i.upmath.me/svg/x_%7B1%2C2%7D%20%3D%20%7B-b%5Cpm%5Csqrt%7Bb%5E2%20-%204ac%7D%20%5Cover%202a%7D." alt="x_{1,2} = {-b\pm\sqrt{b^2 - 4ac} \over 2a}." /></p>
 
 <img src="http://www.sciweavers.org/tex2img.php?eq=%20%5Cfrac%7Ba%7D%7Bb%7D%20%3D%20%5Cbig%5C%7Ba%5Cbig%5C%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt=" \frac{a}{b} = \big\{a\big\} " width="65" height="40" />
-
-![logo](http://www.sciweavers.org/tex2img.php?eq=%20%5Cfrac%7Ba%7D%7Bb%7D%20%3D%20%5Cbig%5C%7Ba%5Cbig%5C%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
