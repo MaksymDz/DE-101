@@ -30,3 +30,7 @@ Hello my **dear** friends
   <img src="https://i.upmath.me/svg/%20%5Clambda%20%3D%20x" alt=" \lambda = x" />
 </p>
 
+
+### <p align='center'> **Короткий математичний довідник** </p>
+#### Перетворення та рівняння 
+<img src="https://i.upmath.me/svg/%20%20%5Cbig(a%2Bb%5Cbig)%20%5Cbig(a-b%5Cbig)%20%3D%20%20a%5E%7B2%7D%20-%20%20b%5E%7B2%7D%20" alt="  \big(a+b\big) \big(a-b\big) =  a^{2} -  b^{2} " />
