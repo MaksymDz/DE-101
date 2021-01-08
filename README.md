@@ -6,6 +6,6 @@
 |---|-|
 135 |f|
 
-```Python
+```python
 print('Hello')
 ```
