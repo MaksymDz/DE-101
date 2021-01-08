@@ -21,5 +21,5 @@ Hello my **dear** friends
 
 ---
 
-<math>2 + 2 = 4</math>
+<math>E=mc^2</math>
 
