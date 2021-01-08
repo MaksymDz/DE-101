@@ -21,6 +21,5 @@ Hello my **dear** friends
 
 ---
 
-$$ \alpha $$
-
+<math>2 + 2 = 4</math>
 
