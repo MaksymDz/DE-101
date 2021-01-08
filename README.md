@@ -27,4 +27,4 @@ Hello my **dear** friends
 <p align="center"><img align="center" src="https://i.upmath.me/svg/x_%7B1%2C2%7D%20%3D%20%7B-b%5Cpm%5Csqrt%7Bb%5E2%20-%204ac%7D%20%5Cover%202a%7D." alt="x_{1,2} = {-b\pm\sqrt{b^2 - 4ac} \over 2a}." /></p>
 
 
-<img align="center" src="//i.upmath.me/svg/%20%5Clambda%20%3D%20x" alt=" \lambda = x" />
+<img src="//i.upmath.me/svg/%20%5Clambda%20%3D%20x" alt=" \lambda = x" />
