@@ -10,4 +10,4 @@
 print('Hello')
 ```
 
-Hello my ** dear ** friends
+Hello my **dear** friends
