@@ -21,6 +21,6 @@ Hello my **dear** friends
 
 ---
 
-$$\alpha$$
+$$ \alpha $$
 
 
