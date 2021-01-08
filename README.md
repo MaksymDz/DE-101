@@ -21,5 +21,5 @@ Hello my **dear** friends
 
 ---
 
-<math>E=mc^2</math>
+_E = mc ^2^_
 
