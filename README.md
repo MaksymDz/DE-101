@@ -11,3 +11,7 @@ print('Hello')
 ```
 
 Hello my **dear** friends
+
+1. Тип
+2. Об'єкт
+3. Ціль
